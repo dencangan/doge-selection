@@ -1,0 +1,17 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #90c7f3; 
+}
+
+#title { 
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+canvas {
+    margin-bottom: 10px;
+    background-color: #f5c7b9; 
+    width: 100%;
+    height: auto;
+  }
